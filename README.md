@@ -54,7 +54,7 @@ In an empty directory (the 'working directory'), on a machine with Docker instal
 `aico2caom2` can store files from local disk to CADC storage. This behaviour is controlled by configuration
 information, located in a file named `config.yml`. Most of the `config.yml` values are already set appropriately, but there are a few values that need to be
 set according to the execution environment. For a complete description of the `config.yml` content, see
-https://github.com/opencadc/collection2caom2/wiki/config.yml.
+https://github.com/opencadc-metadata-curation/collection2caom2/wiki/config.yml.
 
 1. Copy the file `config.yml` to the working directory. e.g.:
 
@@ -147,8 +147,8 @@ Prepared files should be stored in a separate location for the next step, as `ai
    ```
 
 1. For some instructions that might be helpful on using containers, see:
-   https://github.com/opencadc/collection2caom2/wiki/Docker-and-Collections
+   https://github.com/opencadc-metadata-curation/collection2caom2/wiki/Docker-and-Collections
 
-1. For some insight into what's happening, see: https://github.com/opencadc/collection2caom2
+1. For some insight into what's happening, see: https://github.com/opencadc-metadata-curation/collection2caom2
 
 1. For Docker information, see: https://www.docker.com
